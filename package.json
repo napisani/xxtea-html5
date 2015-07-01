@@ -1,0 +1,30 @@
+{
+  "name": "xxtea-html5",
+  "version": "1.0.0",
+  "description": "A tiny client-side encryption algorithm written in JavaScript.",
+  "main": "XXTea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/napisani/xxtea-html5.git"
+  },
+  "keywords": [
+    "TEA",
+    "xxTEA",
+    "encryption",
+    "xxtea-html5",
+    "xxtea-html"
+  ],
+  "author": "Nick Pisani <napisani@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/napisani/xxtea-html5/issues"
+  },
+  "homepage": "https://github.com/napisani/xxtea-html5",
+  "dependencies": {
+    "atob": "^1.1.2",
+    "btoa": "^1.1.2"
+  }
+}
