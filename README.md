@@ -1,4 +1,4 @@
-# XXTEA for HTML5
+# XXTEA for NodeJS
 
 ## Introduction
 
